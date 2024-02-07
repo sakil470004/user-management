@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.unsplash.com/photo-1529891858519-f18aa4f6a3b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "work": "Karate Expert",
+    "description": "Highly skilled in traditional Karate techniques, with a focus on discipline and precision."
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1608583252022-09323426b8b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TWFydGlhbCUyMGFydHxlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=686&q=80",
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "work": "Taekwondo Specialist",
+    "description": "Specializes in Taekwondo, emphasizing dynamic kicks and agile movements for self-defense and competitive sparring."
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1588989810740-c4c8b90239b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=741&q=80",
+    "name": "Michael Johnson",
+    "email": "michaeljohnson@example.com",
+    "work": "Judo Master",
+    "description": "Master of Judo techniques, known for leveraging opponents' strength against them using throws, locks, and groundwork."
+  },
+  {
+    "id": 4,
+    "img": "https://images.unsplash.com/photo-1608583235545-8b9b39b454d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=747&q=80",
+    "name": "Sarah Davis",
+    "email": "sarahdavis@example.com",
+    "work": "Brazilian Jiu-Jitsu Pro",
+    "description": "Highly skilled in Brazilian Jiu-Jitsu, specializing in ground fighting, submissions, and strategic grappling."
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1551103941-cbe0990b4386?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=708&q=80",
+    "name": "Robert Lee",
+    "email": "robertlee@example.com",
+    "work": "Muay Thai Guru",
+    "description": "Muay Thai expert, proficient in the art of eight limbs, combining strikes with clinching and devastating knee and elbow techniques."
+  },
+  {
+    "id": 6,
+    "img": "https://images.unsplash.com/photo-1606729171277-49d4c3d88338?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+    "name": "Emily Wilson",
+    "email": "emilywilson@example.com",
+    "work": "Kung Fu Expert",
+    "description": "Skilled in various Kung Fu styles, with a deep understanding of fluid movements, balance, and internal energy cultivation."
+  }
+]

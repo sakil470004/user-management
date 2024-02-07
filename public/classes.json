@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Karate",
+    "id": 1,
+    "instructorName": "John Doe",
+    "availableSeats": 10,
+    "price": 50,
+    "description": "Karate is a Japanese martial art that focuses on striking techniques using punches, kicks, knee strikes, and open-hand techniques.",
+    "image": "https://images.unsplash.com/photo-1608583252022-09323426b8b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=794&q=80"
+  },
+  {
+    "name": "Taekwondo",
+    "id": 2,
+    "instructorName": "Jane Smith",
+    "availableSeats": 8,
+    "price": 60,
+    "description": "Taekwondo is a Korean martial art known for its dynamic kicking techniques, emphasizing speed and agility.",
+    "image": "https://plus.unsplash.com/premium_photo-1667942252639-a59152eeef15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "name": "Judo",
+    "id": 3,
+    "instructorName": "Michael Johnson",
+    "availableSeats": 12,
+    "price": 45,
+    "description": "Judo is a Japanese martial art that focuses on grappling techniques and throws, utilizing an opponent's strength and momentum.",
+    "image": "https://images.unsplash.com/photo-1564415315949-7a0c4c73aab4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "name": "Brazilian Jiu-Jitsu",
+    "id": 4,
+    "instructorName": "Sarah Davis",
+    "availableSeats": 6,
+    "price": 70,
+    "description": "Brazilian Jiu-Jitsu is a grappling-based martial art that emphasizes ground fighting, submissions, and positional dominance.",
+    "image": "https://images.unsplash.com/photo-1624824179660-80d32a64a887?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80"
+  },
+  {
+    "name": "Muay Thai",
+    "id": 5,
+    "instructorName": "Robert Lee",
+    "availableSeats": 15,
+    "price": 55,
+    "description": "Muay Thai, also known as Thai boxing, is a combat sport from Thailand that utilizes strikes with fists, elbows, knees, and shins.",
+    "image": "https://images.unsplash.com/photo-1637974013743-82656f7c3f49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=648&q=80"
+  },
+  {
+    "name": "Kung Fu",
+    "id": 6,
+    "instructorName": "Emily Wilson",
+    "availableSeats": 9,
+    "price": 65,
+    "description": "Kung Fu refers to a wide range of Chinese martial arts styles that incorporate various techniques, forms, and philosophies.",
+    "image": "https://images.unsplash.com/photo-1550759807-6419ff64a5e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80"
+  }
+]

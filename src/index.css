@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    background-color: #000000;
+    color:white
+}
+.nav-bg{
+    background-color: #030408;
+} */
+.dashboardCSS li a{
+    margin: 2px;
+    border-radius: 10px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color:rgba(134, 86, 86, 0.67);
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    transition: all 1s ease;
+    margin-top: 10px;
+}
+.dashboardCSS li:hover {
+    background-color: rgba(40, 3, 3, 0.761);
+    border-radius: 10px;
+    /* margin-top: 10px; */
+
+  }
+  
+  .dashboardCSS li a:active {
+    background-color: rgb(163, 24, 24);
+  }
