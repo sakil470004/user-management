@@ -27,7 +27,7 @@ function Footer() {
         </div>
 
       </footer>
-      <p className='text-center mt-6 text-error'>&copy; 2024 <span className="text-pink-full">Fighting Spirit</span>. All rights reserved.</p>
+      <p className='text-center mt-6 text-error'>&copy; 2024 <span className="text-pink-full">USER Management</span>. All rights reserved.</p>
     </div>
 
   );
